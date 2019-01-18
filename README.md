@@ -1,2 +1,2 @@
 # spring-webflux-security-jwt
-WebFlux Security Sample
+This is a sample Spring Boot reactive and secured application.
